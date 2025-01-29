@@ -1,5 +1,7 @@
 html,
-body,
+    body{
+      --font-dm-sans: 'DM Sans', sans-serif;
+    }
 div,
 span,
 applet,
